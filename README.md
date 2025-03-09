@@ -1,4 +1,4 @@
-minikube start
+* minikube start
 minikube status
 kubectl get node -o wide 
 kubectl get pod
